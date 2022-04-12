@@ -12,9 +12,11 @@ Dan ada juga tabel pengambilan jika sudah di ambil maka akan ada nama siapa yang
 ![image](https://user-images.githubusercontent.com/97661073/162888383-a55e236f-107e-43fa-a81f-817e7c82ba23.png)
 
 Di semua tabel itu bisa di tambah data
+
 ![image](https://user-images.githubusercontent.com/97661073/162888424-b3aa9082-33c9-432d-b595-e9fcbf69525a.png)
 
 dan di semua tabel bisa di edit
+
 ![image](https://user-images.githubusercontent.com/97661073/162888451-f4a1f069-abc9-4b96-9d80-05a0cbc88642.png)
 
 Untuk pembuktian sudah pengambilan stnk maka akan di print hasilnya
