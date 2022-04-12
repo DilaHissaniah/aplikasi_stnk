@@ -11,14 +11,16 @@ Lalu ada tabel konsumen,tabel konsumen ini untuk orang yang akan mengambil stnk
 Dan ada juga tabel pengambilan jika sudah di ambil maka akan ada nama siapa yang sudah mengambilnya di tabel pengambilannya
 ![image](https://user-images.githubusercontent.com/97661073/162888383-a55e236f-107e-43fa-a81f-817e7c82ba23.png)
 
-Di semua tabel itu bisa di tambah data,edit data dan hapus data 
+Di semua tabel itu bisa di tambah data
 ![image](https://user-images.githubusercontent.com/97661073/162888424-b3aa9082-33c9-432d-b595-e9fcbf69525a.png)
 
+dan di semua tabel bisa di edit
 ![image](https://user-images.githubusercontent.com/97661073/162888451-f4a1f069-abc9-4b96-9d80-05a0cbc88642.png)
 
 Untuk pembuktian sudah pengambilan stnk maka akan di print hasilnya
 
 ![image](https://user-images.githubusercontent.com/97661073/162888472-40a74aad-af50-4943-9631-929f3b629095.png)
+
 jika ingin keluar maka harus logout terlebih dahulu!!
 ![image](https://user-images.githubusercontent.com/97661073/162888487-ea07fd8f-ef45-4be1-87d9-5061bbf8bdc0.png)
 
