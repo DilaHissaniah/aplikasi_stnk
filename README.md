@@ -19,5 +19,6 @@ Untuk pembuktian sudah pengambilan stnk maka akan di print hasilnya
 
 ![image](https://user-images.githubusercontent.com/97661073/162888472-40a74aad-af50-4943-9631-929f3b629095.png)
 jika ingin keluar maka harus logout terlebih dahulu!!
+
 ![image](https://user-images.githubusercontent.com/97661073/162888487-ea07fd8f-ef45-4be1-87d9-5061bbf8bdc0.png)
 
